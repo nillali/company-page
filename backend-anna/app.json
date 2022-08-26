@@ -1,5 +1,5 @@
 {
-    "name": "edu-http-classic",
+    "name": "company-page",
     "description": "Simple backend server",
     "repository": "https://github.com/nillali/company-page.git",
     "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
